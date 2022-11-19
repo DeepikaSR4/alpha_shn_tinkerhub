@@ -33,3 +33,4 @@ let paddle = {
       ctx.closePath();
     }
   };
+
